@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278704044549",
+    "project_id": "menorton-test-integration",
+    "storage_bucket": "menorton-test-integration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278704044549:android:a22d9ae319dfff6ec8ba6c",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGc0FN2GjtHa_gmG5tDImhgXcoNLbFW-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278704044549:android:ab6747ee7579f020c8ba6c",
+        "android_client_info": {
+          "package_name": "com.example.namer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGc0FN2GjtHa_gmG5tDImhgXcoNLbFW-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
